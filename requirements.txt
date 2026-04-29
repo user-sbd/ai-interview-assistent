@@ -1,0 +1,4 @@
+PyQt5>=5.15.0
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+requests>=2.31.0
